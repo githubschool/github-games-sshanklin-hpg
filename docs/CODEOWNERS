@@ -1,0 +1,4 @@
+*@tammij
+*.js @front-end-team
+/test/ @qa-team
+*.rb @matz
